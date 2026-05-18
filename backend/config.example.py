@@ -1,7 +1,7 @@
 # backend/config.py
 DB_HOST     = "localhost"
 DB_USER     = "root"
-DB_PASSWORD = "samar1234@"   # change to your MySQL password
+DB_PASSWORD = "your_mysql_password"   # change to your MySQL password
 DB_NAME     = "crediflux_db"
 
 APP_TITLE        = "CrediFlux — Cash Flow Minimizer"

@@ -1,0 +1,9 @@
+__pycache__/ 
+*.pyc 
+*.pyo 
+backend/config.py 
+.vscode/ 
+.idea/ 
+.aider/ 
+.DS_Store 
+Thumbs.db
